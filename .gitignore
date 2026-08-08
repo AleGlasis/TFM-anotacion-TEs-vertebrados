@@ -1,0 +1,63 @@
+# === Datos genómicos y librerías (pesados, no deben subirse) ===
+*.fa
+*.fasta
+*.fa.out
+*.fa.out.gz
+*.fna
+*.2bit
+genomes/
+librerias/
+library_*.fasta
+
+# === Salidas de filtropara2 (logs de filtrado de librerías) ===
+ids_total.txt
+ids_unicos_dfam.txt
+duplicados_ids.txt
+duplicados_seq.txt
+graficas_filtrado.png
+
+# === Salidas de RepeatMasker / OneCodeToFindThemAll ===
+*.cat
+*.cat.gz
+*.masked
+*.tbl
+*.ori.out
+*.align
+*_copynumber.csv
+*_ltr.csv
+*.elem_sorted.csv
+*.transposons.csv
+resultados/
+output/
+outputs/
+
+# === Gráficas y figuras generadas (si no quieres versionarlas) ===
+*.png
+*.jpg
+*.jpeg
+*.pdf
+!examples/**/*.png
+
+# === Logs de Slurm ===
+slurm-*.out
+*.log
+logs/
+
+# === R ===
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+
+# === Perl ===
+*.pl.bak
+
+# === Editor / sistema ===
+.vscode/
+.DS_Store
+Thumbs.db
+
+# === Archivos temporales ===
+*.tmp
+*.swp
+*~
