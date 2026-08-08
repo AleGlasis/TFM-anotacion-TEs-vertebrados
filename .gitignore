@@ -16,6 +16,10 @@ duplicados_ids.txt
 duplicados_seq.txt
 graficas_filtrado.png
 
+# === Salidas de análisis de RepeatMasker (conteo_clase / plot_clases) ===
+conteo_clases_cromosoma.csv
+plot_clases_cromosoma.png
+
 # === Salidas de RepeatMasker / OneCodeToFindThemAll ===
 *.cat
 *.cat.gz
