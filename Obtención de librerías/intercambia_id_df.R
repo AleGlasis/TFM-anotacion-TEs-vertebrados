@@ -6,7 +6,7 @@
 # Después: >7SLRNA SINE/alu
 # =============================================================
 # Uso:
-#   setwd("C:/Users/ALEJANDRO/ruta/a/tu/carpeta")
+#   setwd("ruta/a/tu/carpeta")
 #   intercambiar_id_df("library_rellena_clean.fasta", "library_final.fasta")
 # =============================================================
 
