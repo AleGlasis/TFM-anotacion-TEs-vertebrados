@@ -13,9 +13,9 @@
 #               RUTAS Y PARÁMETROS                  #
 #####################################################
 
-LIBRERIA=/mnt/home/users/cts_1147_genyo/aalmagro/experiments/Conseqxorganism/Dr/library_perfecta6.fasta
-DIRECTORIO_SALIDA=/mnt/home/users/cts_1147_genyo/aalmagro/experiments/Conseqxorganism/Dr/Búsqueda/RepeatMasker_sensible
-GENOMA=/mnt/home/users/cts_1147_genyo/aalmagro/fscratch/Genomas/Dr/dr_genome.fa
+LIBRERIA=./library.fasta
+DIRECTORIO_SALIDA=./resultados/
+GENOMA=./genoma.fa
 CPUS=4
 
 #####################################################
