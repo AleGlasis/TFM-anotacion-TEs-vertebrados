@@ -9,7 +9,7 @@
 # Después: >Academ-1_DR#DD(E/D)_Transposons/academ
 # =============================================================
 # Uso:
-#   setwd("C:/Users/ALEJANDRO/ruta/a/tu/carpeta")
+#   setwd("ruta/a/tu/carpeta")
 #   formatear_cabecera("library.fasta", "library_formateada.fasta")
 # =============================================================
 
