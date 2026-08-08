@@ -28,6 +28,12 @@ comparacion_erv1_3.png
 comparacion_erv1_3_v2.png
 vecinos_archivo2.png
 
+# === Salidas de análisis de LTR7 ===
+ltr7.bed
+ltr7_con_div.csv
+comparacion_ltr7.png
+sankey_ltr7.png
+
 # === Salidas de RepeatMasker / OneCodeToFindThemAll ===
 *.cat
 *.cat.gz
@@ -69,10 +75,6 @@ logs/
 .DS_Store
 Thumbs.db
 
-# === Archivos temporales ===
-*.tmp
-*.swp
-*~
 # === Archivos temporales ===
 *.tmp
 *.swp
